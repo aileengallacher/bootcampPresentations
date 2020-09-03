@@ -1,0 +1,38 @@
+{
+    "posts": [
+{
+        "id": 1,
+        "videoUrl": "https://youtu.be/YvQccZxW6-Y",
+        "title": "Conference Opening Keynote",
+        "speaker": "Aileen"
+    },{
+        "id": 2,
+        "videoUrl": "https://youtu.be/SPpu05oPhzs",
+        "title": "Conference Opening Keynote",
+        "speaker": "Jared"
+    },{
+        "id": 3,
+        "videoUrl": "https://youtu.be/JtpiwumCROM",
+        "title": "Conference Opening Keynote",
+        "speaker": "Alex"
+    },{
+        "id": 4,
+        "videoUrl": "https://youtu.be/Gn48x92nWY0",
+        "title": "Conference Opening Keynote",
+        "speaker": "Annette"
+    },{
+        "id": 5,
+        "videoUrl": "https://youtu.be/aFR0bK9EFMc",
+        "title": "Conference Opening Keynote",
+        "speaker": "Divakar"
+    },{
+        "id": 5,
+        "videoUrl": "https://youtu.be/4I-QvqhWFGs",
+        "title": "Conference Opening Keynote",
+        "speaker": "Essa"
+    }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
